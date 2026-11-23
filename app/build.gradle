@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.momo.jizhang'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.momo.jizhang"
+        minSdk 26
+        targetSdk 34
+        versionCode 19
+        versionName "2.9"
+    }
+}

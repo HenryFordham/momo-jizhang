@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/cream</item>
+    </style>
+    <color name="cream">#FBF5EC</color>
+    <string name="a11y_desc">Momo记账：读取微信支付成功页面的金额与收款方，用于零钱支付自动记账</string>
+</resources>
